@@ -1,0 +1,15 @@
+{
+  "name": "bar_chart",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "weweb build",
+    "serve": "weweb serve"
+  },
+  "devDependencies": {
+    "@weweb/cli": "latest"
+  },
+  "dependencies": {
+    "git": "^0.1.5",
+    "highcharts": "^11.4.8"
+  }
+}
